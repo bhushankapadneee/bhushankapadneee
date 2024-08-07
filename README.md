@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhushan kapadne
-- 👀 I’m a Third Year B.Tech IT Student,
+- 👀 I’m a Final Year B.Tech IT Student,
 - 🌱 I’m currently learning ...Front-end Web Devlopment
 - 💞️ Love to explore new technologies,
 - 📫 @bhushan.kapadnee@gmail.com
