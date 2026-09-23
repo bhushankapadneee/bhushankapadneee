@@ -203,18 +203,52 @@ My primary career path is **Full-Stack Development**, backed by broader experien
 
 ---
 
-## 📊 GitHub Stats
+## 📈 At a Glance
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhushankapadneee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankapadneee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+### 🎯 Currently Working On
+- 🌐 Production web platform at **Botbruz** with Next.js + TypeScript
+- 🤖 Enterprise **AI Copilot** using AWS Bedrock + RAG pipelines
+- 📦 Improving system design and backend architecture skills
+- 📝 Exploring open source contributions
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushankapadneee&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+### 🌱 Currently Learning
+- Advanced **TypeScript** patterns and design systems
+- **AWS** architecture — Lambda, S3, IAM, API Gateway
+- **LLM fine-tuning** and prompt engineering best practices
+- **System design** fundamentals for scalable applications
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Key Achievements
+- 📄 Published in **IEEE** — ESCI 2024 International Conference
+- 📄 Published in **Scopus** — GRENZE Journal Vol. 12 (2026)
+- 🌍 Represented India in **3 international robotics competitions**
+- 🚀 Shipped production web features used by real Botbruz users
+- ☕ Completed 6-month intensive **Java + OOP** training at QSpiders
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Ask Me About
+- Building full-stack apps with **Next.js + React + TypeScript**
+- **Python** scripting, automation and data pipelines
+- Integrating **LLMs and AI** into existing products
+- **REST API** design and backend architecture with Flask
+- **Machine learning** for real-world prediction problems
+
+</td>
+</tr>
+</table>
 
 ---
 
