@@ -25,30 +25,6 @@ Alongside frontend work, I'm actively building an **enterprise AI integration la
 
 ---
 
-## 🚀 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Botbruz Web Platform
-Building and maintaining Botbruz's production-facing digital presence — pixel-perfect UI components, performance optimisation, cross-browser compatibility, automated testing and seamless CI/CD deployment.
-
-`Next.js 14` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui` `Vercel` `Git`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Enterprise AI Copilot
-Designing a secure, context-aware AI layer for an existing business platform — role-based access control, retrieval-augmented generation, vector search, model routing and intelligent workflow automation.
-
-`AWS` `Amazon Bedrock` `LLMs` `RAG` `RBAC` `Vector Search` `Python` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -98,79 +74,6 @@ Designing a secure, context-aware AI layer for an existing business platform —
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Botbruz Web Platform
-Production website with server-side rendering, reusable component library, smooth page transitions and optimised Core Web Vitals. Deployed on Vercel with continuous delivery.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · Vercel
-
-[View Repository →](https://github.com/bhushankapadneee)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Enterprise AI Copilot
-Secure AI assistant embedded into a business platform with multi-model routing, document retrieval and granular role-based permissions.
-
-**Stack:** AWS · Amazon Bedrock · Python · RAG · RBAC · REST APIs · LLMs
-
-**Status:** 🚧 In progress · Confidential client project
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 Smart Resume Analyzer
-End-to-end resume intelligence system — PDF ingestion, text extraction, NLP-based skill matching, keyword scoring against job descriptions and an analytics dashboard for hiring insights.
-
-**Stack:** Python · Streamlit · NLTK · Pandas · MySQL · PDF Parsing · Scikit-learn · NLP
-
-[View Repository →](https://github.com/bhushankapadneee)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 IPL Fantasy Team Predictor
-ML-powered web app that predicts the optimal Dream11 fantasy cricket team by analysing player form, venue statistics, historical IPL match data and opposition matchups.
-
-**Stack:** Python · Flask · Scikit-learn · Pandas · NumPy · HTML · CSS · JavaScript · MySQL
-
-[View Project →](https://github.com/bhushankapadneee)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Research Publications
-
-### 📄 Machine Learning Based IPL Fantasy Cricket Dream11 Best Team Prediction
-*2024 International Conference on Emerging Smart Computing and Informatics (ESCI) · IEEE*
-
-Peer-reviewed research presenting a machine learning framework for fantasy cricket team selection. The system combines player performance metrics, pitch conditions, venue statistics and historical IPL data to generate optimised Dream11 team lineups with measurable accuracy improvements over baseline heuristics.
-
-[![IEEE](https://img.shields.io/badge/View%20on%20IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ESCI59607.2024.10497335)
-
----
-
-### 📄 Smart Resume Analyzer
-*GRENZE International Journal of Engineering and Technology · Vol. 12 (2026), Issue 1 · pp. 584–591 · Scopus Indexed*
-
-Scopus-indexed research covering an automated resume analysis pipeline using NLP and machine learning — PDF text extraction, semantic skill mapping, job description alignment scoring and personalised candidate recommendations.
-
-*Co-authors: Mangesh Balpande, Prem Bhadane, Mohit Pawar, Harshal Jadhav*
-
-[![Scopus](https://img.shields.io/badge/View%20on%20Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/pages/publications/105047284477)
 
 ---
 
